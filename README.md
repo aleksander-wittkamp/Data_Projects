@@ -1,5 +1,11 @@
-# Data Projects
+# r/DestructiveReaders Data Analysis
 
-Hello. This is where I'll be collecting my personal data projects.
+Hello. 
 
-For now there is only the one I've done about a writing group at the subreddit r/DestructiveReaders.
+In this repository, please find some python webscraping code, the resulting dataset, and an analysis of that dataset.
+
+The data was scraped from a writing group on reddit at the subreddit r/DestructiveReaders.
+
+The file rdr_analysis has a fuller breakdown of the dataset and some analysis.
+
+Thanks for dropping by!
