@@ -1,7 +1,5 @@
 # Reddit Usage Pattern Analysis
 
-Hello. 
-
 In this repository, please find some python webscraping code, the resulting dataset, and an analysis of that dataset.
 
 The data was scraped from a writing group on reddit at the subreddit r/DestructiveReaders.
