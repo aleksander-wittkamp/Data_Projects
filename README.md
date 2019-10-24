@@ -1,4 +1,4 @@
-# r/DestructiveReaders Data Analysis
+# Reddit Usage Pattern Analysis
 
 Hello. 
 
